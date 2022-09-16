@@ -1,7 +1,7 @@
 {
   "workflowApiVersion": "1.1",
   "metaData": {
-    "icon": "takemymoney.gif"
+    "icon": "check-in.png"
   },
   "type": "REST",
   "lang": {
